@@ -99,10 +99,10 @@ Vincule seu repositório local ao repositório remoto que você criou:
 git remote add origin <URL_DO_SEU_REPOSITÓRIO>
 ```
 
-### 6. Conecte ao GitHub
+### 6. Envie o Projeto para a Nuvem
 
-Vincule seu repositório local ao repositório remoto que você criou:
+Envie o commit do seu repositório local para o GitHub:
 
 ```bash
-git remote add origin <URL_DO_SEU_REPOSITÓRIO>
+git push -u origin main
 ```
